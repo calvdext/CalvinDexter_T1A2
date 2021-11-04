@@ -23,20 +23,6 @@ header {
   border: solid #3392ff 8px;
 }
 
-main {
-  margin: 20px;
-  color: #fff;
-}
-
-main img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 10px auto;
-  height: auto;
-  max-width: 100%;
-}
-
 .nav-bar a:link, a:visited {
   color: black;
   background-color: #3392ff;
@@ -44,6 +30,25 @@ main img {
 
 .nav-bar a:hover, a:active {
   background-color: #fff;
+}
+
+main {
+  color: black;
+}
+
+main article {
+  background-color: #fff;
+  border: #3392ff solid 8px;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 20px;
+}
+
+main article img {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 90%;
 }
 
 footer {
@@ -69,23 +74,6 @@ footer p {
 .social-links img {
   height: auto;
   max-width: 60px;
-  margin: 5px auto;
 }
 
-.blog-section {
-  margin: auto;
-  position: relative;
-  width: 87%;
-}
-.blog-section .blog {
-  margin: 8px auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background-color: #fff;
-  border-radius: 20px;
-  border: #3392ff solid 8px;
-}
-
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=aboutme-style.css.map */

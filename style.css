@@ -23,11 +23,6 @@ header {
   border: solid #3392ff 8px;
 }
 
-main {
-  margin: 20px;
-  color: #fff;
-}
-
 main img {
   display: flex;
   justify-content: center;
@@ -47,7 +42,7 @@ main img {
 }
 
 footer {
-  display: flex;
+  display: absolute;
   justify-content: center;
   align-items: center;
   bottom: 6px;
@@ -62,8 +57,7 @@ footer p {
   position: relative;
   bottom: 2px;
   padding: 0;
-  margin: 20px;
-  color: #fff;
+  margin: 0;
 }
 
 .social-links img {
@@ -86,6 +80,12 @@ footer p {
   background-color: #fff;
   border-radius: 20px;
   border: #3392ff solid 8px;
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: darkred;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
