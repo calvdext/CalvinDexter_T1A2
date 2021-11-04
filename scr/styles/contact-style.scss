@@ -37,22 +37,26 @@ header {
 }
 
 main {
-    color: black;
-}
-
-main article {
-    background-color: #fff;
-    border: #3392ff solid 8px;
-    border-radius: 20px;
-    padding: 15px;
-    margin: 20px;
-}
-
-main article img {
     display: flex;
     justify-content: center;
-    margin: auto;
-    width: 90%;
+    align-content: center;
+    align-items: center;
+    margin: 20px auto;
+    flex-direction: column;
+    color: #fff;
+    input {
+        padding: 10px;
+        width: 250px;
+    }
+}
+
+main form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    padding: 20px;
 }
 
 footer {

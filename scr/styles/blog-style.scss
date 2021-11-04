@@ -36,23 +36,20 @@ header {
     background-color:#fff;
 }
 
-main {
-    color: black;
-}
-
-main article {
-    background-color: #fff;
-    border: #3392ff solid 8px;
-    border-radius: 20px;
-    padding: 15px;
-    margin: 20px;
-}
-
-main article img {
-    display: flex;
-    justify-content: center;
+.blog-section {
     margin: auto;
-    width: 90%;
+    position: relative;
+    width: 87%;
+     .blog {
+        margin: 8px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: #fff;
+        border-radius: 20px;
+        border: #3392ff solid 8px;
+    }
 }
 
 footer {
@@ -71,4 +68,5 @@ footer {
 .social-links img {
     height: auto;
     max-width: 60px;
+    margin: 5px auto;
 }

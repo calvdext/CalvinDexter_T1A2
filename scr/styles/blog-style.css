@@ -36,23 +36,20 @@ header {
   background-color: #fff;
 }
 
-main {
-  color: black;
+.blog-section {
+  margin: auto;
+  position: relative;
+  width: 87%;
 }
-
-main article {
-  background-color: #fff;
-  border: #3392ff solid 8px;
-  border-radius: 20px;
-  padding: 15px;
-  margin: 20px;
-}
-
-main article img {
+.blog-section .blog {
+  margin: 8px auto;
   display: flex;
   justify-content: center;
-  margin: auto;
-  width: 90%;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 20px;
+  border: #3392ff solid 8px;
 }
 
 footer {
@@ -71,6 +68,7 @@ footer p {
 .social-links img {
   height: auto;
   max-width: 60px;
+  margin: 5px auto;
 }
 
-/*# sourceMappingURL=aboutme-style.css.map */
+/*# sourceMappingURL=blog-style.css.map */
