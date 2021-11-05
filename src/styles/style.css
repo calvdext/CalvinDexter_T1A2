@@ -48,6 +48,7 @@ main img {
 
 footer {
   display: flex;
+  position: -webkit-sticky;
   position: sticky;
   top: 100%;
   justify-content: center;
@@ -98,6 +99,4 @@ footer p {
   main img {
     width: 350px;
   }
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */

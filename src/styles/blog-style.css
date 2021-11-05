@@ -54,6 +54,7 @@ header {
 
 footer {
   display: flex;
+  position: -webkit-sticky;
   position: sticky;
   top: 100%;
   justify-content: center;
@@ -69,6 +70,4 @@ footer p {
   height: auto;
   max-width: 60px;
   margin: 5px auto;
-}
-
-/*# sourceMappingURL=blog-style.css.map */
+}/*# sourceMappingURL=blog-style.css.map */

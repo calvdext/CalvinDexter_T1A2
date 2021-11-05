@@ -61,6 +61,7 @@ main form {
 
 footer {
   display: flex;
+  position: -webkit-sticky;
   position: sticky;
   top: 100%;
   justify-content: center;
@@ -75,6 +76,4 @@ footer p {
 .social-links img {
   height: auto;
   max-width: 60px;
-}
-
-/*# sourceMappingURL=contact-style.css.map */
+}/*# sourceMappingURL=contact-style.css.map */
