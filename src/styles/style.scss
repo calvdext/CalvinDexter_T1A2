@@ -7,10 +7,6 @@ body {
     min-height: 100vh;
 }
 
-header {
-    display: none;
-}
-
 .nav-bar {
     display: flex;
     justify-content: center;
@@ -69,8 +65,28 @@ footer {
     margin: 5px auto;
 }
 
-@media only screen and (min-width: 600px) {
-    .nav-bar {
+@media only screen and (max-width: 600px) {
+    header {
+        display: none;
+    }
+}
 
+@media only screen and (min-width: 600px) {
+    nav {
+        position: absolute;
+        display: inline-block;
+        justify-content: center;
+        right: 100px;
+    }
+    main {
+        img {
+            display: flex;
+            position: relative;
+            width: 200px;
+            right: 90px;
+        }
+        h2 {
+
+        }
     }
 }
