@@ -7,10 +7,6 @@ body {
   min-height: 100vh;
 }
 
-header {
-  display: none;
-}
-
 .nav-bar {
   display: flex;
   justify-content: center;
@@ -61,7 +57,6 @@ main form {
 
 footer {
   display: flex;
-  position: -webkit-sticky;
   position: sticky;
   top: 100%;
   justify-content: center;
@@ -76,4 +71,21 @@ footer p {
 .social-links img {
   height: auto;
   max-width: 60px;
-}/*# sourceMappingURL=contact-style.css.map */
+}
+
+@media only screen and (max-width: 600px) {
+  header {
+    display: none;
+    margin: 14px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  nav {
+    position: absolute;
+    display: inline-block;
+    justify-content: center;
+    right: 100px;
+  }
+}
+
+/*# sourceMappingURL=contact-style.css.map */
