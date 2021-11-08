@@ -26,11 +26,11 @@ The target audience for this project is an employer seeking a junior web develop
 (https://github.com/calvdext/CalvinDexter_T1A2)
 
 ### Screenshots / Wireframes / Site Map
-![Home](docs/Wireframes/HomePage.png)
-![About Me](docs/Wireframes/AboutMe.png)
+![Home](docs/wireframes/HomePage.png)
+![About Me](docs/wireframes/AboutMe.png)
 ![Blog](docs/Wireframes/BlogPage.png)
-![Resume](docs/Wireframes/ResumePage.png)
-![Contact](docs/Wireframes/ContactPage.png)
+![Resume](docs/wireframes/ResumePage.png)
+![Contact](docs/wireframes/ContactPage.png)
 
 ### Tech stack 
 - Trello
