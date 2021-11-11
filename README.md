@@ -20,9 +20,9 @@ The purpose of this website is to show potential employers some of my web develo
 - Contact form 
 - Links to social media 
 
+The code choice for the styling I’ve used is SASS converted into CSS, this allowed me to do nesting in the building process. I could of gone without this but still I wanted to use a SASS file to get the feel for using it. The Media queries are used on each styling sheet to best suit the wireframes in designed. Some things I would of like to add and play around with is some animation, some colorful shapes moving past in the back-ground and how to make that work cohensiding the media break points. 
 ### Target audience
 The target audience for this project is an employer seeking a junior web developer, all thought this website is very basic and doesn't have any JS features, I'm excited with the out come non the less and can’t wait to dive deeper into more complex code.
-
 
 ### Screenshots / Wireframes / Site Map
 ![Site Map](docs/sitemap/Portfolio-Sitemap.png)
@@ -34,6 +34,7 @@ The target audience for this project is an employer seeking a junior web develop
 
 ### Tech stack 
 - VS code 
+- GitHub
 - HTML
-- SCSS/CSS
+- SASS/CSS
 - Netlify
