@@ -27,9 +27,9 @@ The target audience for this project is an employer seeking a junior web develop
 ### Ethical issues 
 All images were sourced from my own archive, some logos I have taken from online but have all been modified from their original form. My slide deck was built with google slide using a balsamique template. I imported fonts from google fonts links to that in links. 
 ### links
-Google Fonts
+##### Google Fonts
 - https://fonts.google.com/specimen/Oxygen 'Oxygen'
-Social Media 
+##### Social Media 
 - https://twitter.com/CalvinDexter5
 - https://github.com/calvdext
 - https://www.linkedin.com/in/calvin-dexter-297474225/
