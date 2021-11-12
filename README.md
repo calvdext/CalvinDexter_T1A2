@@ -24,6 +24,15 @@ The code choice for the styling I’ve used is SASS converted into CSS, this all
 ### Target audience
 The target audience for this project is an employer seeking a junior web developer, all thought this website is very basic and doesn't have any JS features, I'm excited with the out come non the less and can’t wait to dive deeper into more complex code.
 
+### Ethical issues 
+All images were sourced from my own archive, some logos I have taken from online but have all been modified from their original form. My slide deck was built with google slide using a balsamique template. I imported fonts from google fonts links to that in links. 
+### links
+Google Fonts
+- https://fonts.google.com/specimen/Oxygen 'Oxygen'
+Social Media 
+- https://twitter.com/CalvinDexter5
+- https://github.com/calvdext
+- https://www.linkedin.com/in/calvin-dexter-297474225/
 ### Screenshots / Wireframes / Site Map
 ![Site Map](docs/sitemap/Portfolio-Sitemap.png)
 ![Home](docs/wireframes/HomePage.png)
