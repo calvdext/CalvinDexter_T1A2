@@ -1,0 +1,131 @@
+commit 69e3933782cc10a11527fed86460468486991dd5
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 12 15:09:20 2021 +1000
+
+    fixing README flie
+
+commit 17c89e9d53640cb827aba0db2f88272338fc3ae9
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 12 14:59:25 2021 +1000
+
+    adding blog section html pages, fixing nav bar about me to just about, adding slide deck, more info into README file
+
+commit 8c9caf05aa55b0f8bd626bbd0df2cb26deaec762
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Thu Nov 11 14:18:52 2021 +1000
+
+    adding cv and links to social media profiles, adding image to blog page
+
+commit fb66600a838971f2401d08f749835cfd55480bbc
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Wed Nov 10 15:23:04 2021 +1000
+
+    adding slide deck and sitemap files, adding more info to README
+
+commit 6e13146a0edc1451f06c0b4894bc337bcca728c1
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Mon Nov 8 17:00:24 2021 +1000
+
+    fixing README images
+
+commit 39b6b80319500aa6a80c033093df569c0626f10e
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Mon Nov 8 16:55:01 2021 +1000
+
+    fixing README images
+
+commit 67ec6ad58f6f4ebd0fec4d405d639591f0f0d8f7
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Mon Nov 8 15:25:09 2021 +1000
+
+    fixing README images
+
+commit 71631b00065dd093aba653767d768b94f386dd94
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Mon Nov 8 14:06:32 2021 +1000
+
+    fixing image links in README
+
+commit 7e3a1ed65b2511e390b8133e121ff7fb6a540829
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Mon Nov 8 14:01:02 2021 +1000
+
+    adding documentation to README file and png's of wireframes
+
+commit a3e595636d92e444aba2bd13b95e9061b3540099
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 5 14:18:37 2021 +1000
+
+    fixing links for deployment
+
+commit b91d385e41632743f56d2035c34e4eedfb241209
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 5 14:11:26 2021 +1000
+
+    deploying website to netlify
+
+commit bb6931295d02474e499926ba387f5fb5cd40e33a
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 5 13:24:57 2021 +1000
+
+    finalizing media break points, looking over any elements that are not being utilized
+
+commit 230436109d66ff9b8678f9d66e8d20b08dd5c458
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 5 11:54:36 2021 +1000
+
+    added more media break points and resized some images to better fit the site
+
+commit 8daeb491f91c3dab13cf007e41dc52b594951972
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 5 11:18:37 2021 +1000
+
+    media break points for home page done, social links now target blank
+
+commit 47caaac83f7418ba1fe792e9d1047edbf15446a5
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 5 10:52:51 2021 +1000
+
+    made a mistake with file name, fixed all links, took out images that i decided not to use to clean up files
+
+commit b3e0bd69aad06f7cdbba0dab6b9fbcfd94805921
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Fri Nov 5 10:37:18 2021 +1000
+
+    fixed some spelling mistakes, starting media break points on home page
+
+commit d42f033934bbec57fb03f76bcd42403763f53fe8
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Thu Nov 4 17:33:11 2021 +1000
+
+    finalizing content, finalizing mobile first display, took blog section out of home page to its own page
+
+commit 77567080bfa2b84e54ab38d5d19b7820b1baf663
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Thu Nov 4 13:46:58 2021 +1000
+
+    continueing to add content and style all pages as mobile first display
+
+commit 435dcb3f4a5bc5ebd381bed6270df152a7dfc81c
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Thu Nov 4 09:18:30 2021 +1000
+
+    added styling sheet for resume page with same styling as home page, done mobile first styling for home page
+
+commit 7c4f53f3861966e82d9c9dd2c5516e16b9a0a7ae
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Tue Nov 2 15:50:45 2021 +1000
+
+    started nav-bar styling
+
+commit 686dba9147256b81d3b291a75781167512234a14
+Author: calvdext <gcab022117@coderacademy.edu.au>
+Date:   Tue Nov 2 11:24:02 2021 +1000
+
+    file sructure made content added and html/css pages added
+
+commit 8006845c44c32ffd79768820769acb3b84b25498
+Author: calvdext <92557021+calvdext@users.noreply.github.com>
+Date:   Tue Nov 2 09:08:53 2021 +1000
+
+    Initial commit
